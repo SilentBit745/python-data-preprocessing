@@ -1,6 +1,5 @@
 # Python for Machine Learning and Data Preprocessing
 
-A practical project by Yash Pratap.
 
 ## Technologies Used
 
