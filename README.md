@@ -1,40 +1,25 @@
-Python for Machine Learning and Data Preprocessing
-A practical Python project focused on preparing data for machine learning using Pandas, NumPy, and Scikit-learn.
-🛠️ Technologies Used
+# Python for Machine Learning and Data Preprocessing
 
-Python
-Pandas
-NumPy
-Scikit-learn
-Google Colab
+A practical project by Yash Pratap.
 
-📌 Project Overview
-This project demonstrates essential data preprocessing techniques using a sample student dataset.
-✅ Work Completed
+## Technologies Used
 
-Created and inspected a sample dataset
-Identified and handled missing values
-Removed duplicate records
-Filled missing values using column averages
-Converted categorical data into numerical columns
-Normalized numerical features between 0 and 1
-Explored data using summary statistics
-Exported the processed dataset to CSV
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
 
-📂 Project Files
+## Project Overview
 
-Week1_Data_Preprocessing.ipynb — Python code and preprocessing steps
-cleaned_student_data.csv — Processed dataset
+This project demonstrates data preprocessing using Python.
 
-📊 Results
+## Project Files
 
-Original dataset: 6 records
-Final dataset: 5 records
-Missing numerical values handled
-Gender encoded into numerical columns
-Numerical features normalized
+- Week1_Data_Preprocessing.ipynb
+- cleaned_student_data.csv
 
-🎯 Learning Outcomes
-Gained practical experience in data cleaning, missing-value handling, categorical encoding, normalization, and exploratory data analysis.
-👨‍💻 Author
-Yash Pratap
+## Results
+
+- Original dataset: 6 records
+- Final dataset: 5 records
+  
