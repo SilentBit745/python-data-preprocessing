@@ -14,7 +14,7 @@ This project demonstrates data preprocessing using Python.
 
 ## Project Files
 
-- Week1_Data_Preprocessing.ipynb
+- python_data_cleaning.ipynb
 - cleaned_student_data.csv
 
 ## Results
